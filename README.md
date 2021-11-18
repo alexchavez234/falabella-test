@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-_Falabella Test_
+# Falabella Test
 
 ## Comenzando 🚀
 
