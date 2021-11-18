@@ -49,8 +49,6 @@ _Herramientas_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 - **Jaime A. Chávez Castro** - _Trabajo Inicial_ - [Jaime Chavez](https://github.com/alexchavez234)
 
 ⌨️ con ❤️ por [JaimeChavez](https://github.com/alexchavez234) 😊
