@@ -1,0 +1,21 @@
+{
+    "name": "jaime/unit-test-php",
+    "description": "",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jaime C",
+            "email": "alexchavez234@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
